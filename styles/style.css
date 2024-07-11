@@ -143,3 +143,13 @@ body {
         width: auto;
     }
 }
+
+@media (max-width: 440px) {
+    .cabecalho__menu{
+        gap: 40px;
+    }
+
+    .cabecalho__menu__link{
+        font-size: 1.125rem;
+    }
+}
